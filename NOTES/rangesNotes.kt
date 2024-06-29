@@ -13,6 +13,9 @@ for (nums in 5..15) {
   println(nums)
 }
 
+
+fggf
+
 // displays whole numbers from 5 to 15 (IN REALITY)
 
 CHECK IF A VALUE EXISTS:
