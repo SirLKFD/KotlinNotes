@@ -1,9 +1,8 @@
-fun main() {
-    val nums = arrayOf(2, 4, 6, 8)
-    if (5 in nums) {
-        println("It exists!")
-    } else {
-        println("It does not exist.")
-    }
+fun myFunction(x: String, y: Double) = "$x needs to pay $y"
 
+fun main() {
+    var result = myFunction("Mike", 32.12)
+    println(result)
 }
+
+// 8 (3 + 5)

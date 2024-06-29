@@ -61,6 +61,8 @@ var firstName = "John "
 var lastName = "Doe"
 println(firstName.plus(lastName)) // displays JohnDoe
 
+-------------------------------------------------------------------
+
 STRING INTERPOLATION:
 
 nstead of concatenation, you can also use "string templates",
